@@ -1,3 +1,4 @@
 # palautusrepositorio
 
-(https://github.com/miikuel/ohtuvarasto)
+[Ohtuvarasto](https://github.com/miikuel/ohtuvarasto)
+[Webcounter](https://github.com/miikuel/webcounter)
