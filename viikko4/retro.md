@@ -1,0 +1,5 @@
+# Retrospektiivitekniikat
+
+Start, Stop, Continue, More of, Less of Wheel -tekniikalla pyritään parantamaan tiimin työskentelytapoja pyytämälällä tiimin jäseniä antamaan palautetta sprintistä. Tämä tehdään niin, että taululle piirretään viiteen lohkoon jaettu ympyrä, jonka lohkot ovat tekniikan nimen mukaisesti "Start", "Stop", "Continue", "More of" ja "Less of". Tiimin jäsenet kirjoittavat lohkoihin näkemyksensä näistä teemoista ja näin saadaan tiimiläisten palaute sprintistä kerättyä ja tämän perusteella voidaan kehittää tiimin työskentelytapoja.
+
+Glad, Sad, Mad -tekniikka keskittyy tunnistamaan sprintin aikaisia tapahtumia, jotka herättivät tiimiläisissä tekniikan nimen mukaisia tunteita. Taululle piirretään kategoriat "Glad", "Sad", ja "Mad" ja tiimin jäsenet listaavat esim post-it-lapuille sprintin aikaisia asioita ja tämän jälkeen tiimiläiset lisäävät laput taululle kategorioihin sen mukaisesti, millaisia tunteita kyseinen asia tiimiläisessä herrätti. Näin pystytään taas tunnistamaan mahdollisia kehityskohteita tiimin työskentelytavoissa.
