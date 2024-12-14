@@ -1,0 +1,1 @@
+[Linkki mergettyyn pull requestiin](https://github.com/Hillomunkit/Viitteidenhallinta/pull/1)
